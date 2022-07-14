@@ -99,7 +99,7 @@ const Pricing = ({
                       <a
                         href="javascript:void(0)"
                         class="inline-block rounded-full border border-[#D4DEFF] bg-transparent py-4 px-11 text-center text-base font-medium text-primary transition duration-300 ease-in-out hover:border-primary hover:bg-primary hover:text-white">
-                        Purchase Now
+                        Contact Us
                       </a>
                     </div>
                     <span class="absolute right-0 top-0 z-[-1] block h-14 w-14 rounded-bl-full bg-secondary"></span>
@@ -154,7 +154,7 @@ const Pricing = ({
                       <a
                         href="javascript:void(0)"
                         class="inline-block rounded-full border border-[#D4DEFF] bg-transparent py-4 px-11 text-center text-base font-medium text-primary transition duration-300 ease-in-out hover:border-primary hover:bg-primary hover:text-white">
-                        Purchase Now
+                        Contact Us
                       </a>
                     </div>
                     <span class="absolute right-0 top-0 z-[-1] block h-14 w-14 rounded-bl-full bg-secondary"></span>
@@ -204,7 +204,7 @@ const Pricing = ({
                       <a
                         href="javascript:void(0)"
                         class="inline-block rounded-full border border-[#D4DEFF] bg-transparent py-4 px-11 text-center text-base font-medium text-primary transition duration-300 ease-in-out hover:border-primary hover:bg-primary hover:text-white">
-                        Purchase Now
+                        Contact Us
                       </a>
                     </div>
                     <span class="absolute right-0 top-0 z-[-1] block h-14 w-14 rounded-bl-full bg-secondary"></span>

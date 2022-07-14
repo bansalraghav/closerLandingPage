@@ -61,15 +61,15 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Closer <span className="text-color-primary">Instagram Followers</span>
+              Closer <span className="text-color-primary">Shopify App</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                We help brands get closer to their instagram followers and increase customer retention and boost sales.
+                Convert your customers into loyal Instagram Followers and convert them for repeat purchases.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://calendly.com/shubhambatra/30min">
                     Schedule Demo
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://apps.shopify.com/closer">
